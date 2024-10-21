@@ -1,7 +1,7 @@
 # Pesquisa de Satisfacao
 
 Desenvolvi um projeto para análise de uma pesquisa de satisfação fundamental para que a empresa possa aprimorar continuamente a qualidade de seus produtos e serviços ao coletar insights diretamente dos clientes.
-Coletei dados (fictícios, para simulação), projetei dashboards e criei de KPI's => Google forms, google sheets e Power BI.
+Coletei dados fictícios, para simulação, projetei dashboards e criei de KPI's => Google forms, google sheets e Power BI.
 
     1.Cartões do número de promotores, detratores, neutros e total;
     2.Gráfico NPS, índice de qualidade;
